@@ -32,7 +32,7 @@ const faqs = [
   {
     question: "What's the difference between Free and Pro?",
     answer:
-      "Free gives you access to the live trade feed (last 30 days), basic member profiles (10/day), and overview analytics. Pro unlocks the full 2-year history, unlimited member profiles, AI-powered notable trade detection, pattern analysis, lobbying context, sector heatmaps, push notifications, CSV export, and unlimited bookmarks. Pro is $6.99/month or $49.99/year.",
+      "Free gives you access to the live trade feed (last 30 days with a 48-hour delay), 3 member profiles per day, up to 3 bookmarks, and basic overview analytics. Pro unlocks the full 2-year history with real-time access, unlimited member profiles, AI-powered notable trade detection, pattern analysis, P/L tracking, lobbying context, copy trade alerts, sector heatmaps, push notifications, CSV export, and unlimited bookmarks. Pro is $6.99/month or $49.99/year.",
   },
   {
     question: "Can I export the data?",
