@@ -37,6 +37,11 @@ export function Footer() {
                   FAQ
                 </a>
               </li>
+              <li>
+                <Link href="/support" className="text-foreground/70 hover:text-foreground transition-colors">
+                  Support
+                </Link>
+              </li>
             </ul>
           </div>
 
