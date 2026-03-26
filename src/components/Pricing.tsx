@@ -17,7 +17,6 @@ const freeTier = {
   excluded: [
     "Notable trade detection",
     "AI trade analysis",
-    "P/L tracking",
     "Lobbying context",
     "Sector heatmap & timeline",
     "Push notifications",
@@ -40,7 +39,6 @@ const proTier = {
     "Unlimited member profiles",
     "Notable trade detection (AI-flagged)",
     "AI trade pattern analysis",
-    "P/L tracking on trades",
     "Lobbying context & connections",
     "Sector heatmap & timeline analytics",
     "Push notifications & alerts",
