@@ -161,7 +161,7 @@ export default function TermsOfService() {
           <p className="mt-3">
             If you have questions about these Terms, please contact us at:
           </p>
-          <p className="mt-2 font-medium">support@capitolgains.app</p>
+          <p className="mt-2 font-medium">support@capitolgainsapp.com</p>
         </section>
       </div>
     </div>

@@ -79,7 +79,7 @@ export function Footer() {
               </div>
             </a>
             <p className="mt-4 text-xs text-muted">
-              Contact: support@capitolgains.app
+              Contact: support@capitolgainsapp.com
             </p>
           </div>
         </div>

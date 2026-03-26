@@ -131,7 +131,7 @@ export default function PrivacyPolicy() {
           </ul>
           <p className="mt-3">
             To exercise these rights, you can use the in-app account management features or contact us at
-            support@capitolgains.app.
+            support@capitolgainsapp.com.
           </p>
         </section>
 
@@ -149,7 +149,7 @@ export default function PrivacyPolicy() {
           <p className="mt-3">
             If you have questions about this Privacy Policy, please contact us at:
           </p>
-          <p className="mt-2 font-medium">support@capitolgains.app</p>
+          <p className="mt-2 font-medium">support@capitolgainsapp.com</p>
         </section>
       </div>
     </div>
