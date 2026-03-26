@@ -23,7 +23,7 @@ const sources = [
   },
   {
     name: "Financial Modeling Prep (FMP)",
-    description: "Stock prices, company names, and market data for P/L calculations and ticker resolution.",
+    description: "Stock prices, company names, and market data for ticker resolution and company information.",
     url: "https://financialmodelingprep.com/",
     type: "Market Data",
   },
