@@ -30,7 +30,7 @@ export function Header() {
             FAQ
           </a>
           <a
-            href="https://apps.apple.com/app/capitol-gains"
+            href="https://apps.apple.com/us/app/capitol-gains-trade-tracker/id6760779864"
             target="_blank"
             rel="noopener noreferrer"
             className="rounded-full bg-accent px-5 py-2 text-sm font-semibold text-background transition-colors hover:bg-accent-dim"
@@ -78,7 +78,7 @@ export function Header() {
             FAQ
           </a>
           <a
-            href="https://apps.apple.com/app/capitol-gains"
+            href="https://apps.apple.com/us/app/capitol-gains-trade-tracker/id6760779864"
             target="_blank"
             rel="noopener noreferrer"
             className="rounded-full bg-accent px-5 py-2 text-center text-sm font-semibold text-background"

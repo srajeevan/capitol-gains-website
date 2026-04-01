@@ -101,7 +101,7 @@ export function Pricing() {
               <span className="text-4xl font-bold">{freeTier.price}</span>
             </div>
             <a
-              href="https://apps.apple.com/app/capitol-gains"
+              href="https://apps.apple.com/us/app/capitol-gains-trade-tracker/id6760779864"
               target="_blank"
               rel="noopener noreferrer"
               className="mt-6 block w-full rounded-xl border border-card-border py-3 text-center text-sm font-semibold transition-colors hover:border-accent/40 hover:text-accent"
@@ -141,7 +141,7 @@ export function Pricing() {
             </div>
             <p className="mt-1 text-xs text-muted">or {proTier.annual} (save 40%)</p>
             <a
-              href="https://apps.apple.com/app/capitol-gains"
+              href="https://apps.apple.com/us/app/capitol-gains-trade-tracker/id6760779864"
               target="_blank"
               rel="noopener noreferrer"
               className="mt-6 block w-full rounded-xl bg-accent py-3 text-center text-sm font-bold text-background transition-colors hover:bg-accent-dim"

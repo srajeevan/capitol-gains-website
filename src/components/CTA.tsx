@@ -22,7 +22,7 @@ export function CTA() {
           </p>
           <div className="mt-8">
             <a
-              href="https://apps.apple.com/app/capitol-gains"
+              href="https://apps.apple.com/us/app/capitol-gains-trade-tracker/id6760779864"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-3 rounded-2xl bg-white px-8 py-4 text-black transition-transform hover:scale-105"

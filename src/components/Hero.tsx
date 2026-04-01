@@ -39,7 +39,7 @@ export function Hero() {
 
             <div className="mt-8 flex flex-col items-center gap-4 sm:flex-row lg:justify-start">
               <a
-                href="https://apps.apple.com/app/capitol-gains"
+                href="https://apps.apple.com/us/app/capitol-gains-trade-tracker/id6760779864"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-3 rounded-2xl bg-white px-6 py-3.5 text-black transition-transform hover:scale-105"

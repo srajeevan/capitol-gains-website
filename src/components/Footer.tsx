@@ -70,7 +70,7 @@ export function Footer() {
               Download
             </h4>
             <a
-              href="https://apps.apple.com/app/capitol-gains"
+              href="https://apps.apple.com/us/app/capitol-gains-trade-tracker/id6760779864"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 rounded-xl bg-card-bg border border-card-border px-4 py-3 text-sm font-medium transition-colors hover:border-accent/40"
