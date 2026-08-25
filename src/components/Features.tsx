@@ -7,49 +7,65 @@ const features = [
   {
     title: "Live Trade Feed",
     description:
-      "Browse every disclosed stock transaction from Congress in real time. Filter by member, party, chamber, date, or ticker symbol.",
+      "Every disclosed congressional stock transaction, the moment it's filed. Filter by member, party, chamber, date, or ticker — no 48-hour delay, even on the free tier.",
     screenshot: "/screenshots/feed_screen.png",
     alt: "Live trade feed showing congressional stock trades",
     badge: "Real-time",
   },
   {
-    title: "Member Profiles",
+    title: "Signals",
     description:
-      "Explore any representative or senator's full trading history. See committee assignments, trading frequency, sector preferences, and buy/sell ratios.",
-    screenshot: "/screenshots/members_screen.png",
-    alt: "Member profiles grid showing congress member trading activity",
-    badge: "535 Members",
+      "Every ticker Congress touches, scored 0-100. Spot cluster buys where members pile into the same stock, whale-sized bets far above a member's usual size, and repeat-buy conviction — the strongest patterns, surfaced automatically.",
+    screenshot: "/screenshots/signals_screen.png",
+    alt: "Signals screen scoring every ticker Congress trades",
+    badge: "New",
   },
   {
-    title: "AI Trade Analysis",
+    title: "Suspicious Moves",
     description:
-      "Our AI flags trades that deserve a closer look — like when a committee member trades in a sector they directly oversee. Pattern detection, timing analysis, and concentration scoring.",
-    screenshot: "/screenshots/trade_analysis_tickers_traded.png",
-    alt: "AI-powered trade analysis showing patterns and insights",
+      "The trades that moved most before the public ever saw the filing. Members get 45 days to disclose — we surface the biggest gains against the longest delays, so the ones worth a closer look rise to the top.",
+    screenshot: "/screenshots/analytics_screen.png",
+    alt: "Analytics screen flagging suspicious pre-disclosure moves",
     badge: "AI-Powered",
   },
   {
-    title: "Sector Heatmap & Analytics",
+    title: "Committee Conflicts",
     description:
-      "Visualize where congressional money is flowing. See which sectors attract the most political capital — and spot emerging trends before they hit the headlines.",
-    screenshot: "/screenshots/analytics_sector_breakdown.png",
-    alt: "Sector heatmap showing where Congress invests",
+      "When a member trades the sector their own committee oversees, it gets a conflict score. See who's trading the industries they regulate, ranked 0-100 by how direct the overlap is.",
+    screenshot: "/screenshots/conflicts_screen.png",
+    alt: "Committee conflict scoring for congressional trades",
+    badge: "Pro",
+  },
+  {
+    title: "Top Traders",
+    description:
+      "Congress's best-performing traders, ranked by actual average return — not how often they trade. See win rates, best calls, and who's genuinely beating the market.",
+    screenshot: "/screenshots/top_traders_screen.png",
+    alt: "Leaderboard of top-performing congressional traders",
     badge: "Analytics",
   },
   {
-    title: "Member Deep Dives",
+    title: "Lobbying Context",
     description:
-      "Go deep on any member's trading behavior. AI analysis covers patterns, positioning, activity trends, timing, concentration, and key findings.",
-    screenshot: "/screenshots/members_details.png",
-    alt: "Detailed member profile with AI analysis",
+      "Follow the money twice. See lobbying filings cross-referenced against the trades — who's paying to influence the members whose portfolios you're watching.",
+    screenshot: "/screenshots/lobbying_screen.png",
+    alt: "Lobbying filings cross-referenced with congressional trades",
     badge: "Pro",
+  },
+  {
+    title: "Member Profiles",
+    description:
+      "Explore any of 173 tracked members' full trading history. Committee assignments, trading frequency, buy/sell ratios, and sector preferences — ranked by how hard they trade.",
+    screenshot: "/screenshots/members_screen.png",
+    alt: "Member profiles grid showing congress member trading activity",
+    badge: "173 Members",
   },
   {
     title: "Watchlist & Alerts",
     description:
       "Bookmark members to track. Get push notifications when they trade, when notable transactions are detected, or when large trades hit.",
-    screenshot: "/screenshots/bookmark_screen.png",
-    alt: "Bookmarks screen showing saved member watchlist",
+    screenshot: "/screenshots/whales_screen.png",
+    alt: "Whale trade alerts for outsized congressional positions",
     badge: "Push Alerts",
   },
 ];

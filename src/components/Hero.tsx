@@ -33,8 +33,8 @@ export function Hero() {
             </h1>
 
             <p className="mt-6 max-w-xl text-lg text-muted lg:text-xl">
-              Track every stock trade made by members of Congress. AI-powered notable trade detection,
-              lobbying context, and real-time alerts — all in one app.
+              Track every stock trade made by members of Congress. Signals that score every ticker,
+              committee-conflict detection, and real-time alerts — all in one app.
             </p>
 
             <div className="mt-8 flex flex-col items-center gap-4 sm:flex-row lg:justify-start">
